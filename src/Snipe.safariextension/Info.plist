@@ -4,6 +4,8 @@
 <dict>
 	<key>Author</key>
 	<string>Joseph Schmitt</string>
+	<key>Builder Version</key>
+	<string>7536.19</string>
 	<key>CFBundleDisplayName</key>
 	<string>Snipe</string>
 	<key>CFBundleIdentifier</key>
@@ -79,6 +81,6 @@
 	<key>Update Manifest URL</key>
 	<string>http://cbowns.com/snipe/update-safari.plist</string>
 	<key>Website</key>
-	<string>http://reusablebits.com</string>
+	<string>http://reusablebits.com/</string>
 </dict>
 </plist>
